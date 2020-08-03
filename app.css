@@ -72,6 +72,7 @@
 }
 body {
   background-image: url('geometric-leaves.png');
+  padding-top: 50px;
   /* padding: 20px; */
   /* margin: 20px; */
 }
