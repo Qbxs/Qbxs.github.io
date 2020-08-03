@@ -16,6 +16,9 @@
   background-color: #222;
   padding-left: 10px;
 }
+.navbar-brand {
+  font-style: italic;
+}
 .footer {
   margin: 20px;
   text-align: center;
@@ -51,6 +54,21 @@
 .carousel {
   padding-top: 0px;
   padding-bottom: 20px;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+/* Add a hover effect if you want */
+.fa:hover {
+  color: black;
+  opacity: 0.7;
+  text-decoration: none;
 }
 body {
   background-image: url('geometric-leaves.png');
